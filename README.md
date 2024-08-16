@@ -1,2 +1,2 @@
-# Tableau_HockeyMatchAnalysis
- Data visualization analysis of a fake hockey game
+# Tableau Hockey Analysis
+ Group presentation for Data visualization analysis of a fake hockey game
